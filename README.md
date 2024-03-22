@@ -25,7 +25,7 @@ Account should have at least the following attributes:
 - First name
 - Last name
 
-For dependency management you can use either Gradle or Maven, and for persisting data H2 (in-memory DB) could be an option.
+For dependency management you can use Gradle, and for persisting data H2 (in-memory DB) could be an option.
 
 Your API only has to support DKK currency. 
 
