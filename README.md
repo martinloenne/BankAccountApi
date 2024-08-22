@@ -42,6 +42,8 @@ gradlew test
 
 ## Endpoints
 
+REST Api doc. can be found at `http://localhost:8080/v3/api-docs`
+
 ### Create a New Account
 
 **Endpoint:** `POST /accounts`
@@ -213,7 +215,7 @@ curl -X GET "http://localhost:8080/exchange-rate?amount=1000"
 - [ ] Fault-tolerance/fallback strategy on external APIs.
 - [ ] Resilient-strategy on repository.
 - [ ] Retry policy.
-- [ ] API Doc.
+- [x] API Doc.
 - [ ] Explore the possibility for using CQRS.
 - [ ] Explore the possibility for using Event-Sourcing.
 
