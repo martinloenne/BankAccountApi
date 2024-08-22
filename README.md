@@ -213,7 +213,6 @@ curl -X GET "http://localhost:8080/exchange-rate?amount=1000"
 - [ ] Integration test for controllers.
 - [ ] Health check.
 - [ ] Fault-tolerance/fallback strategy on external APIs.
-- [ ] Resilient-strategy on repository.
 - [ ] Retry policy.
 - [x] API Doc.
 - [ ] Explore the possibility for using CQRS.
