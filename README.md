@@ -36,7 +36,7 @@ The application will start on port 8080 by default.
 ### Using Command Line
 
 ```bash
-gradlew test
+gradlew test  
 ```
 
 
